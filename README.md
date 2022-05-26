@@ -4,7 +4,4 @@
 ### Uygulama Yazı/Tura gelme ihtimalini, başlangıç tohumu verilmiş PCG algoritması ile gerçekleştirir. 
 
 
-## LIVE : http://docs.kesifaraci.com:5000/
-
-
-![IMG](https://ylmazmehmet60.files.wordpress.com/2022/04/ekran-alintisi.png)
+[PCG Rasgele Sayı Üreteci Algoritması.pdf](https://github.com/ylmazmehmet60/pcg32-python/files/8781517/PCG.Rasgele.Sayi.Ureteci.Algoritmasi.pdf)
